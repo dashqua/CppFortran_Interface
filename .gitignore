@@ -1,0 +1,14 @@
+# ignore classics
+*.out
+*~
+
+# ignore files in build directory
+build/
+
+#ignore txt in project directory
+/**/*.txt
+
+
+
+#for further details, see
+# https://github.com/github/gitignore
