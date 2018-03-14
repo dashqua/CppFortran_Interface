@@ -3,10 +3,10 @@
 
 extern "C"
 {
-  void ISUM_(int*,int*,int*);
-  void IPROD_(int*,int*,int*);
-  void DSUM_(double*,double*,double*);
-  void DPROD_(double*,double*,double*);
+  void isum_(int*,int*,int*);
+  void iprod_(int*,int*,int*);
+  void dsum_(double*,double*,double*);
+  void dprod_(double*,double*,double*);
 }
 
 
